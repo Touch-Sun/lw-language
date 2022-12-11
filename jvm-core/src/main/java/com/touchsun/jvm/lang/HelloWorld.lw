@@ -1,0 +1,5 @@
+var one = 1
+print one
+
+var lw = "lw"
+print lw

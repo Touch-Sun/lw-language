@@ -1,0 +1,8 @@
+*.iml
+/.idea
+*.class
+/antlr/target
+/compiler/target
+/compiler/src/main/java/test
+
+/antlr-rules/gen
